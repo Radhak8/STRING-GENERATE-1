@@ -34,10 +34,6 @@ https://graph.org/file/c64df54687a3dcc00ab25.jpg)](https://t.me/LegendSessionBot
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCgv4QgLLpyHVWtBiTpr5srg?label=TeamLegend&style=social)](https://youtube.com/@TeamLegendBot)
 
-## 📄 <a name=" Required Variable"></a>Variable
-
-- [![YouTube Video Views](https://img.shields.io/youtube/views/yA9NsYE7SoM?label=Collect+•+Variable+•&style=social)](https://youtu.be/yA9NsYE7SoM)
-
 -------
 ## Deploy On Heroku
 
@@ -139,7 +135,7 @@ python3 start.py
 
 ## Bugs
 
-- Provide me any bugs
+- Provide me in issue tab
 
 ## Disclaimer
   
