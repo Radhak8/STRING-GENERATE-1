@@ -1,3 +1,4 @@
+import os
 ENV = os.environ.get("ENV", False)
 try:
     API_ID = int(os.environ.get("API_ID", "20986895"))
