@@ -6,3 +6,5 @@ pyrogram1==0.1.0
 telethon==1.26.1
 pyLegendSS #https://github.com/LEGEND-AI/pyLegendSS
 TgCrypto==1.2.5
+python-dotenv[cli]
+python-dotenv
