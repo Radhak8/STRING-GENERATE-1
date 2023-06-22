@@ -19,7 +19,7 @@
   },
   "repository": "https://github.com/LEGEND-AI/STRING-GENERATE",
   "env": {
-    "ENVIRONMENT": {
+    "ENV": {
       "description": "Don't change ANYTHING.",
       "required": true,
       "value": "ANYTHING"
