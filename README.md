@@ -39,7 +39,7 @@ https://graph.org/file/c64df54687a3dcc00ab25.jpg)](https://t.me/LegendSessionBot
 
 - [![YouTube Video Views](https://img.shields.io/youtube/views/1pLXf9jG8e4?label=Deploy+•+Heroku+•&style=social)](https://youtu.be/1pLXf9jG8e4)
 
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://GitHub.com/LEGEND-AI/STRING-GENERATE)
 
 
 -------
