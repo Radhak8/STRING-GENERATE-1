@@ -1,6 +1,6 @@
 {
   "name": "String Session Generator",
-  "description": "Telegram bot to generate Pyrogram & Telethon StringSession Made By LegendBoy(@LegendBot_Owner)",
+  "description": "Telegram bot to generate Pyrogram & Telethon StringSession Made By Radha(@GhostRadha)",
   "logo": "https://graph.org/file/c9ac4314d26c77711986d.jpg",
   "keywords": [
     "telegram",
@@ -17,7 +17,7 @@
       "size": "eco"
     }
   },
-  "repository": "https://github.com/LEGEND-AI/STRING-GENERATE",
+  "repository": "https://github.com/Radhak8/STRING-GENERATE-1",
   "env": {
     "ENV": {
       "description": "Don't change ANYTHING.",
