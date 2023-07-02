@@ -31,8 +31,8 @@ if __name__ == "__main__":
         raise Exception("Your BOT_TOKEN is not valid.")
     uname = app.get_me().username
     print("➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖")
-    print("🔰Support Group🔰 [LOGS] : @LegendBot_OP")
-    print("⚜️Update Group⚜️  [LOGS] : @LegendBot_AI")
+    print("🔰Support Group🔰 [LOGS] : @RadhaX2Support")
+    print("⚜️Update Group⚜️  [LOGS] : @RadhaX2Update")
     print(f"✨Bot Username [LOGS] :@{uname}!")
     print("➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖")
     idle()
